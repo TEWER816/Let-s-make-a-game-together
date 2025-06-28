@@ -175,3 +175,23 @@ G[Godot] --> H[导出模板]
 | **星尘** | 基础分支系统 | 2025 Q9 |
 | **星系** | 跨游戏素材共享 | 2025 Q10 |
 | **宇宙** | 实时协作编辑器 | 2026 10 |
+
+## 💻 开发工具支持
+### 主流编程语言编译器
+| 语言 | 官方下载 | 跨平台支持 | 游戏开发适用性 |
+|------|----------|------------|----------------|
+| **Python** | [python.org](https://www.python.org/downloads/) | Windows/macOS/Linux | 🎮 脚本/工具开发 |
+| **JavaScript** | [nodejs.org](https://nodejs.org/) | Windows/macOS/Linux | 🌐 网页游戏开发 |
+| **C#** | [.NET SDK](https://dotnet.microsoft.com/download) | Windows/macOS/Linux | ⚔️ Unity引擎首选 |
+| **Java** | [OpenJDK](https://jdk.java.net/) | Windows/macOS/Linux | 📱 安卓游戏开发 |
+| **C++** | [MinGW](https://www.mingw-w64.org/) / [MSVC](https://visualstudio.microsoft.com/) | Windows/macOS/Linux | 🚀 高性能游戏引擎 |
+| **GDScript** | [Godot Engine](https://godotengine.org/download) | Windows/macOS/Linux | 🕹️ Godot原生语言 |
+| **Lua** | [LuaBinaries](https://luabinaries.sourceforge.net/) | Windows/macOS/Linux | 🔧 游戏脚本扩展 |
+
+### 游戏引擎工具包
+[![Unity](https://img.shields.io/badge/Download_Unity-000000?logo=unity&style=flat-square)](https://unity.com/download)
+[![Unreal](https://img.shields.io/badge/Download_Unreal-0E1128?logo=unrealengine&style=flat-square)](https://www.unrealengine.com/download)
+[![Godot](https://img.shields.io/badge/Download_Godot-478CBF?logo=godotengine&style=flat-square)](https://godotengine.org/download)
+
+---
+
