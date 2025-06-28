@@ -44,7 +44,7 @@
 
 ## 🚀 如何参与？
 ### 第一步：贡献素材到公共分支
-1. Fork主仓库：[https://github.com/GameUniverse/Main](https://github.com/TEWER816/Let-s-make-a-game-together/tree/main?tab=readme-ov-file)
+1. Fork主仓库：(https://github.com/TEWER816/Let-s-make-a-game-together/tree/main?tab=readme-ov-file)
 2. 找到对应素材分支：
    - 角色：`assets-characters`
    - 场景：`assets-environments`
