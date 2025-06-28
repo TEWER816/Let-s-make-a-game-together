@@ -20,7 +20,7 @@
 ### 核心原则
 ```diff
 + 所有创作通过GitHub仓库管理
-+ 主仓库：https://github.com/GameUniverse/Main
++ 主仓库：[https://github.com/GameUniverse/Main](https://github.com/TEWER816/Let-s-make-a-game-together/tree/main?tab=readme-ov-file)
 - 非开源内容不得提交
 ```
 
