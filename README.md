@@ -1,5 +1,27 @@
 # 🎮✨ 在GitHub上共筑游戏宇宙！✨🎮
 
+🌟 项目简介
+这是一个基于GitHub的开源游戏共创计划，旨在打造一个不断生长的多元游戏宇宙！
+
+🚀 主要功能
+- 通过GitHub分支系统进行游戏开发协作
+- 提供素材分支(assets-*)用于共享游戏资源
+- 支持个人开发分支(dev-*)和协作分支(collab-*)
+
+🛠️ 技术栈
+- GitHub版本控制和CI/CD
+- 支持Unity和Godot游戏引擎
+
+📜 参与方式
+1. 贡献素材到公共分支
+2. 创建个人游戏分支
+3. 通过Pull Request进行协作
+
+🌌 愿景
+"在GitHub的星空中，每个仓库都是一个世界"
+
+➡️ 访问主仓库: <mcurl name="Let's-make-a-game-together" url="https://github.com/TEWER816/Let-s-make-a-game-together"></mcurl>
+
 > **没有边界，只有创造——用GitHub分支打造你的游戏世界！**
 
 ---
@@ -52,7 +74,7 @@
 3. 添加你的素材文件
 4. 提交Pull Request
 
-[![提交素材PR](https://img.shields.io/badge/-提交素材PR-00cc66?logo=github&style=for-the-badge)](https://github.com/GameUniverse/Main/compare)
+[![提交素材PR](https://img.shields.io/badge/-提交素材PR-00cc66?logo=github&style=for-the-badge)](https://github.com/TEWER816/Let-s-make-a-game-together)
 
 ### 第二步：创建个人游戏分支
 ```bash
@@ -120,7 +142,7 @@ E --> G[邀请协作者]
 ## ⏳ 立即行动！
 ```diff
 # 克隆宇宙起点
-+ git clone https://github.com/GameUniverse/Main.git
++ git clonehttps://github.com/TEWER816/Let-s-make-a-game-together
 # 创建你的世界
 + git checkout -b dev-你的用户名-游戏名
 # 开启创造之旅
@@ -150,6 +172,6 @@ G[Godot] --> H[导出模板]
 ## 📅 宇宙扩张计划
 | 阶段 | 目标 | 预计时间 |
 |------|------|----------|
-| **星尘** | 基础分支系统 | 2023 Q4 |
-| **星系** | 跨游戏素材共享 | 2024 Q2 |
-| **宇宙** | 实时协作编辑器 | 2024 Q4 |
+| **星尘** | 基础分支系统 | 2025 Q9 |
+| **星系** | 跨游戏素材共享 | 2025 Q10 |
+| **宇宙** | 实时协作编辑器 | 2026 10 |
