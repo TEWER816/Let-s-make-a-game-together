@@ -57,7 +57,7 @@
 ### 第二步：创建个人游戏分支
 ```bash
 # 克隆主仓库
-git clone https://github.com/GameUniverse/Main.git
+git clone https://github.com/TEWER816/Let-s-make-a-game-together/tree/assets-characters
 
 # 创建个人开发分支
 git checkout -b dev-你的用户名-游戏名
